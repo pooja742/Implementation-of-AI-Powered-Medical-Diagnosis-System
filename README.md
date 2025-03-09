@@ -8,7 +8,7 @@ create a new folder(e.g. new_project) on your desktop... and paste the downloade
 to create an environment... open cmd from this new_project folder and type the below to create an python environment -- 'python -m venv project2'.
 it wil take sometime and successfully install all files like scripts, lib, etc in ur project2 newly created environment
 ### STEP-4:
-after setting up the environment... we should make sure that we run all the .ipynb files and save the new models of them...after we run all .ipynb files and save the .sav models along with the updation in app.py...we must download all these and replce wid the existing ones which we hv already in the folder previously...(this is a very headche task as we need to hv jupyter notebook and need to install many modules,libraries , dependencies, etc...but trust me patience is all it takes!! : )
+after setting up the environment... we should make sure that we run all the .ipynb files and save the new models of them...after we run all .ipynb files and save the .sav models along with the updation in app.py.,..we must also take care of the paths present over there in .ipynb files which are .csv files..we shud give a path from our system ...we must download all these and replce wid the existing ones which we hv already in the folder previously...(this is a very headche task as we need to hv jupyter notebook and need to install many modules,libraries , dependencies, etc...but trust me patience is all it takes!! : )
 ### STEP-5:
 after all new models are saved again in folder... now get back to the terminal(new_project)
 and
